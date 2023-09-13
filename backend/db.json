@@ -1,209 +1,203 @@
 {
-  "albums": [
-    {
-      "id": 1,
-      "title": "Toxicity",
-      "artist": "System Of A Down",
-      "release_year": 2001,
-      "price": 15,
-      "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.26ajcRlSvz6rGXPb2PwEkwHaHa%26pid%3DApi&f=1&ipt=ebd62f3da0fd5d75495f490d7e6810bf09343d43b869708843724ea33c6dbf3e&ipo=images",
-      "genre": "Rock",
-      "link": "https://www.youtube.com/playlist?list=OLAK5uy_kb1yvg1bLW2yKdKxO1qvzGK7pFl9TuFBw"
-    },
-    {
-      "id": 2,
-      "title": "Nevermind",
-      "artist": "Nirvana",
-      "release_year": 1991,
-      "price": 15,
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61quAjwYMtS._SX522_.jpg",
-      "genre": "Rock",
-      "link": "https://www.youtube.com/playlist?list=OLAK5uy_nN3UV5AlNbRP9di-cmgC-ACgL8JLK6jGk"
-    },
-    {
-      "id": 3,
-      "title": "Vespertine",
-      "artist": "Björk",
-      "release_year": 2001,
-      "price": 15,
-      "image": "https://images.genius.com/b15640bb327be7a233301bdea8f2939a.1000x1000x1.png",
-      "genre": "Pop",
-      "link": "https://www.youtube.com/playlist?list=OLAK5uy_kBD_845bpnem9ZuvKPq8Ptoa47opzC1r4"
-    },
-    {
-      "id": 4,
-      "title": "Blonde",
-      "artist": "Frank Ocean",
-      "release_year": 2016,
-      "price": 15,
-      "image": "http://s3.amazonaws.com/hiphopdx-production/2016/08/Frank-Ocean-blonde-album-cover-628x628.jpg",
-      "genre": "Pop",
-      "link": "https://www.youtube.com/playlist?list=OLAK5uy_kClWWfWghQXro7ONQ-DfH3RZ1oxiu0kMA"
-    },
-    {
-      "id": 5,
-      "title": "To Pimp A Butterfly",
-      "artist": "Kendrick Lamar",
-      "release_year": 2015,
-      "price": 15,
-      "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmiro.medium.com%2Fmax%2F1400%2F1*9NKwUDdbL41r6PqWEvXz3Q.jpeg&f=1&nofb=1&ipt=472cd7fb53d9c7c562d8de6e561dba2d332a11417f4e6657e3d14bc5fdca6fbe&ipo=images",
-      "genre": "Hip-Hop",
-      "link": "https://www.youtube.com/playlist?list=PLDCdjwiC90TGNwIVOUU_mKmThxmYPcKZr"
-    },
-    {
-      "id": 6,
-      "title": "Led Zeppelin IV",
-      "artist": "Led Zeppelin",
-      "release_year": 1971,
-      "price": 15,
-      "image": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fsuperhypeblog.com%2Fwp-content%2Fuploads%2F2011%2F08%2Fled-zep-iv.jpg&f=1&nofb=1&ipt=e43df79505424e8a5bb514c820ebcf5f64460f1aafbb3c8d23c02ee4dca336b4&ipo=images",
-      "genre": "Rock",
-      "link": "https://www.youtube.com/playlist?list=PLnif9Rfb5Adk-e0rvMJgJIKqkANw3VfPm"
-    },
-    {
-      "id": 7,
-      "title": "Rodeo",
-      "artist": "Travis Scott",
-      "release_year": 2015,
-      "price": 15,
-      "image": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fs3.amazonaws.com%2Fhiphopdx-production%2F2015%2F09%2Ftravis-scott-rodeo-album-deluxe.jpg&f=1&nofb=1&ipt=76935dc7da5c71b074dc8bea9f46e51a790ce64c466e2d7f121275ec8efe853c&ipo=images",
-      "genre": "Hip-Hop",
-      "link": "https://www.youtube.com/playlist?list=OLAK5uy_mpTXT8bcs7ddIHu4TU6Yyf-wd4sL4AJ0M"
-    },
-    {
-      "id": 8,
-      "title": "Electric Ladyland",
-      "artist": "The Jimi Hendrix Experience",
-      "release_year": 1968,
-      "price": 15,
-      "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F55%2F2e%2F19%2F552e19b4a818cb60698bcc9303c29786.jpg&f=1&nofb=1&ipt=797987ac13d86cde86980543285e6825b0f1b4f51f9553c70bea64c68c49d0bc&ipo=images",
-      "genre": "Rock",
-      "link": "https://www.youtube.com/watch?v=Hz_XAldktzY&list=PL1RRNXldMeREitKT6vfk54RMpzn6ofKHW"
-    },
-    {
-      "id": 9,
-      "title": "Dummy",
-      "artist": "Portishead",
-      "release_year": 1994,
-      "price": 15,
-      "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages.genius.com%2F0df63331bf17f7c94c736abc674c58c3.1000x1000x1.png&f=1&nofb=1&ipt=198583cb611beb5a57bec9e0e327f86c6ebdcd6eb772893e87f6b7209d040485&ipo=images",
-      "genre": "Rock",
-      "link": "https://www.youtube.com/playlist?list=OLAK5uy_nMft1HP8iD7Wu0f0PfOKfao7r_nrBz6O8"
-    },
-    {
-      "id": 10,
-      "title": "Shoot For The Stars Aim For The Moon",
-      "artist": "Pop Smoke",
-      "release_year": 2020,
-      "price": 15,
-      "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthefeaturepresentation.com%2Fwp-content%2Fuploads%2F2020%2F07%2Fpop-smoke-moon-stars-album-review-2020-header.jpg&f=1&nofb=1&ipt=dae79cb1e03957d35bc891c661974904b2cb9972e30b24ce829653ff2c9d0d83&ipo=images",
-      "genre": "Hip-Hop",
-      "link": "https://www.youtube.com/playlist?list=PLxA687tYuMWhSIVBp3Cda-YvNB96sVf3_"
-    },
-    {
-      "title": "Harry's House",
-      "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fourculturemag.com%2Fwp-content%2Fuploads%2F2022%2F03%2Fharrys-house.jpeg&f=1&nofb=1&ipt=2abd6c61d15eb52f4bb5a48e3ea9b9c22f3e20e44e573f3f5bc9192545d5d986&ipo=images",
-      "artist": "Harry Styles",
-      "release_year": 2022,
-      "price": 15,
-      "genre": "Pop",
-      "link": "https://www.youtube.com/playlist?list=OLAK5uy_mlz0XdHjgFO8gVxdQD94aCHsEfpUlgJJ0",
-      "id": 11
-    },
-    {
-      "title": "Daddy's Home",
-      "image": "https://ourculturemag.com/wp-content/uploads/2021/03/St-Vincent-Daddys-Home-696x696.jpg",
-      "artist": "St. Vincent",
-      "release_year": 2021,
-      "price": 15,
-      "genre": "Alternative",
-      "link": "https://www.youtube.com/playlist?list=OLAK5uy_mXKZzUKgIrTCB7qOyc9A3UE0m5pvvieXU",
-      "id": 12
-    },
-    {
-      "title": "DAMN.",
-      "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.hI1D5LhVJE8-T5m69SJUjAHaHa%26pid%3DApi&f=1&ipt=0beee509d9644848e4f83ad95063548a3d320593523dd97f43a9241e92f9ab1f&ipo=images",
-      "artist": "Kendrick Lamar",
-      "release_year": "2017",
-      "price": "15",
-      "genre": "Hip-Hop",
-      "link": "https://www.youtube.com/playlist?list=OLAK5uy_mWaHGXdNJMSE3hMxiM0R03vvYmIRskaNc",
-      "id": 13
-    }
-  ]
+  "inventory": {
+    "music": [
+      {
+        "id": 1,
+        "title": "",
+        "artist": "",
+        "release_year": 2000,
+        "price": 15,
+        "image": "",
+        "genre": "",
+        "link": ""
+      },
+      {
+        "id": 2,
+        "title": "",
+        "artist": "",
+        "release_year": 2000,
+        "price": 15,
+        "image": "",
+        "genre": "",
+        "link": ""
+      }
+    ],
+    "gallery": [
+      {
+        "id": 1,
+        "title": "",
+        "artist": "",
+        "release_year": 0,
+        "price": 15,
+        "image": "",
+        "medium": "",
+        "genre": "",
+        "link": ""
+      },
+      {
+        "id": 2,
+        "title": "",
+        "artist": "",
+        "release_year": 0,
+        "price": 15,
+        "image": "",
+        "medium": "",
+        "genre": "",
+        "link": ""
+      }
+    ],
+    "fashion": [
+      {
+        "id": 1,
+        "title": "",
+        "artist": "",
+        "release_year": 0,
+        "price": 15,
+        "image": "",
+        "type": "",
+        "size": "",
+        "color": "",
+        "link": ""
+      },
+      {
+        "id": 2,
+        "title": "",
+        "artist": "",
+        "release_year": 0,
+        "price": 15,
+        "image": "",
+        "genre": "Rock",
+        "link": ""
+      }
+    ]
+  },
+  "user": {
+    "user": [
+      {
+        "id": 1,
+        "fname": "John",
+        "lname": "Doe",
+        "dob": 2000,
+        "username": "JohnD2000",
+        "comments": {
+          "id": 1,
+          "date": "9/13/2023",
+          "content": "Very cool!"
+        },
+        "oeuvre": {
+          "id": 1,
+          "inv_type": "music",
+          "inv_data": {
+            "id": 1,
+            "title": "",
+            "artist": "",
+            "release_year": 2000,
+            "price": 15,
+            "image": "",
+            "genre": "",
+            "link": ""
+          }
+        },
+        "curation": {
+          "id": 2,
+          "inv_type": "gallery",
+          "inv_data": {
+            "id": 1,
+            "title": "",
+            "artist": "",
+            "release_year": 0,
+            "price": 15,
+            "image": "",
+            "medium": "",
+            "genre": "",
+            "link": ""
+          }
+        }
+      },
+      {
+        "id": 2,
+        "fname": "Jann",
+        "lname": "Doe",
+        "dob": 2000,
+        "username": "Jane420",
+        "comments": {
+          "id": 1,
+          "date": "9/13/2023",
+          "content": "Wow!"
+        },
+        "oeuvre": {
+          "id": 1,
+          "inv_type": "gallery",
+          "inv_data": {
+            "id": 1,
+            "title": "",
+            "artist": "",
+            "release_year": 2000,
+            "price": 15,
+            "image": "",
+            "genre": "",
+            "link": ""
+          }
+        },
+        "curation": {
+          "id": 2,
+          "inv_type": "music",
+          "inv_data": {
+            "id": 1,
+            "title": "",
+            "artist": "",
+            "release_year": 0,
+            "price": 15,
+            "image": "",
+            "medium": "",
+            "genre": "",
+            "link": ""
+          }
+        }
+      },
+      {
+        "id": 3,
+        "fname": "Robert",
+        "lname": "Cheddar",
+        "dob": 2000,
+        "username": "CheddarBob69",
+        "comments": {
+          "id": 1,
+          "date": "9/13/2023",
+          "content": "Im Cheddar Bob."
+        },
+        "oeuvre": {
+          "id": 1,
+          "inv_type": "fashion",
+          "inv_data": {
+            "id": 1,
+            "title": "",
+            "artist": "",
+            "release_year": 0,
+            "price": 15,
+            "image": "",
+            "type": "",
+            "size": "",
+            "color": "",
+            "link": ""
+          }
+        },
+        "curation": {
+          "id": 2,
+          "inv_type": "music",
+          "inv_data": {
+            "id": 1,
+            "title": "",
+            "artist": "",
+            "release_year": 0,
+            "price": 15,
+            "image": "",
+            "medium": "",
+            "genre": "",
+            "link": ""
+          }
+        }
+      }
+    ]
+  }
 }
-
-
-import Image from "next/image"
-
-export interface Album {
-  name: string;
-  artist: string;
-  cover: string;
-}
-
-export const listenNowAlbums: Album[] = [
-  {
-    name: "Toxicity",
-    artist: "System Of A Down",
-    cover:
-      "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.26ajcRlSvz6rGXPb2PwEkwHaHa%26pid%3DApi&f=1&ipt=ebd62f3da0fd5d75495f490d7e6810bf09343d43b869708843724ea33c6dbf3e&ipo=images",
-  },
-  {
-    name: "Nevermind",
-    artist: "Nirvana",
-    cover:
-      "https://images-na.ssl-images-amazon.com/images/I/61quAjwYMtS._SX522_.jpg",
-  },
-  {
-    name: "Vespertine",
-    artist: "Björk",
-    cover:
-      "https://images.genius.com/b15640bb327be7a233301bdea8f2939a.1000x1000x1.png",
-  },
-  {
-    name: "Blonde",
-    artist: "Frank Ocean",
-    cover:
-      "http://s3.amazonaws.com/hiphopdx-production/2016/08/Frank-Ocean-blonde-album-cover-628x628.jpg",
-  },
-];
-
-export const madeForYouAlbums: Album[] = [
-  {
-    name: "To Pimp A Butterfly",
-    artist: "Kendrick Lamar",
-    cover:
-      "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmiro.medium.com%2Fmax%2F1400%2F1*9NKwUDdbL41r6PqWEvXz3Q.jpeg&f=1&nofb=1&ipt=472cd7fb53d9c7c562d8de6e561dba2d332a11417f4e6657e3d14bc5fdca6fbe&ipo=images",
-  },
-  {
-    name: "Led Zeppelin IV",
-    artist: "Led Zeppelin",
-    cover:
-      "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fsuperhypeblog.com%2Fwp-content%2Fuploads%2F2011%2F08%2Fled-zep-iv.jpg&f=1&nofb=1&ipt=e43df79505424e8a5bb514c820ebcf5f64460f1aafbb3c8d23c02ee4dca336b4&ipo=images",
-  },
-  {
-    name: "Rodeo",
-    artist: "Travis Scott",
-    cover:
-      "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fs3.amazonaws.com%2Fhiphopdx-production%2F2015%2F09%2Ftravis-scott-rodeo-album-deluxe.jpg&f=1&nofb=1&ipt=76935dc7da5c71b074dc8bea9f46e51a790ce64c466e2d7f121275ec8efe853c&ipo=images",
-  },
-  {
-    name: "Electric Ladyland",
-    artist: "The Jimi Hendrix Experience",
-    cover:
-      "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F55%2F2e%2F19%2F552e19b4a818cb60698bcc9303c29786.jpg&f=1&nofb=1&ipt=797987ac13d86cde86980543285e6825b0f1b4f51f9553c70bea64c68c49d0bc&ipo=images",
-  },
-  {
-    name: "Dummy",
-    artist: "Portishead",
-    cover:
-      "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages.genius.com%2F0df63331bf17f7c94c736abc674c58c3.1000x1000x1.png&f=1&nofb=1&ipt=198583cb611beb5a57bec9e0e327f86c6ebdcd6eb772893e87f6b7209d040485&ipo=images",
-  },
-  {
-    name: "Shoot For The Stars Aim For The Moon",
-    artist: "Pop Smoke",
-    cover:
-      "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthefeaturepresentation.com%2Fwp-content%2Fuploads%2F2020%2F07%2Fpop-smoke-moon-stars-album-review-2020-header.jpg&f=1&nofb=1&ipt=dae79cb1e03957d35bc891c661974904b2cb9972e30b24ce829653ff2c9d0d83&ipo=images",
-  },
-];
