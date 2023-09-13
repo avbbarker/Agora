@@ -1,0 +1,104 @@
+{
+  "albums": [
+    {
+      "id": 1,
+      "title": "Toxicity",
+      "artist": "System Of A Down",
+      "release_year": 2001,
+      "songs": "",
+      "image": "./assets/Toxicity.jpeg",
+      "genre": "Rock",
+      "link": 0
+    },
+    {
+      "id": 2,
+      "title": "Nevermind",
+      "artist": "Nirvana",
+      "release_year": 1991,
+      "songs": "",
+      "image": "./assets/Nevermind.jpeg",
+      "genre": "Rock",
+      "link": 0
+    },
+    {
+      "id": 3,
+      "title": "Vespertine",
+      "artist": "Björk",
+      "release_year": 2001,
+      "songs": "",
+      "image": "./assets/Vespertine.jpeg",
+      "genre": "Pop",
+      "link": 0
+    },
+    {
+      "id": 4,
+      "title": "Blonde",
+      "artist": "Frank Ocean",
+      "release_year": 2016,
+      "songs": "",
+      "image": "./assets/Blonde.jpeg",
+      "genre": "Pop",
+      "link": 0
+    },
+    {
+      "id": 5,
+      "title": "To Pimp A Butterfly",
+      "artist": "Kendrick Lamar",
+      "release_year": 2015,
+      "songs": "",
+      "image": "./assets/ToPimpAButterfly.jpeg",
+      "genre": "Hip-Hop",
+      "link": 0
+    },
+    {
+      "id": 6,
+      "title": "Led Zeppelin IV",
+      "artist": "Led Zeppelin",
+      "release_year": 1971,
+      "songs": "",
+      "image": "./assets/LedZeppelinIV.jpeg",
+      "genre": "Rock",
+      "link": 0
+    },
+    {
+      "id": 7,
+      "title": "Rodeo",
+      "artist": "Travis Scott",
+      "release_year": 2015,
+      "songs": "",
+      "image": "./assets/Rodeo.jpeg",
+      "genre": "Hip-Hop",
+      "link": 0
+    },
+    {
+      "id": 8,
+      "title": "Electric Ladyland",
+      "artist": "The Jimi Hendrix Experience",
+      "release_year": 1968,
+      "songs": "",
+      "image": "./assets/ElectricLadyland.jpeg",
+      "genre": "Rock",
+      "link": 0
+    },
+    {
+      "id": 9,
+      "title": "Dummy",
+      "artist": "Portishead",
+      "release_year": 1994,
+      "songs": "",
+      "image": "./assets/Dummy.jpeg",
+      "genre": "Rock",
+      "link": 0
+    },
+    {
+      "id": 10,
+      "title": "Shoot For The Stars Aim For The Moon",
+      "artist": "Pop Smoke",
+      "release_year": 2020,
+      "songs": "",
+      "image": "./assets/ShootForTheStars.jpeg",
+      "genre": "Hip-Hop",
+      "link": 0
+    }
+  ]
+}
