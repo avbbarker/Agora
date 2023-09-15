@@ -9,12 +9,12 @@ function Welcome() {
         <title>Welcome</title>
       </Head>
       <h1
-        className={`absolute top-60 text-8xl flex h-60 w-full flex-col items-center justify-center p-10 animate-fade-in-down ${bodyFont.className}`}
+        className={`absolute top-60 text-9xl flex h-60 w-full flex-col items-center justify-center p-10 animate-fade-in-down ${bodyFont.className}`}
       >
         Welcome to Agora
       </h1>
       <p
-        className={`absolute top-96 text-6xl flex h-60 w-full flex-col items-center justify-center p-78 animate-fade-in-down ${bodyFont.className}`}
+        className={`absolute top-96 text-8xl flex h-60 w-full flex-col items-center justify-center p-78 animate-fade-in-down ${bodyFont.className}`}
       >
         Where creatives connect.
       </p>

@@ -1,0 +1,313 @@
+{
+  "inventory": {
+    "music": [
+      {
+        "id": 1,
+        "title": "",
+        "artist": "",
+        "release_year": 2023,
+        "price": 15,
+        "image": "",
+        "genre": "",
+        "link": ""
+      },
+      {
+        "id": 2,
+        "title": "",
+        "artist": "",
+        "release_year": 2014,
+        "price": 15,
+        "image": "",
+        "genre": "",
+        "link": ""
+      }
+    ],
+    "gallery": [
+      {
+        "id": 1,
+        "title": "",
+        "artist": "",
+        "release_year": 0,
+        "price": 150,
+        "image": "",
+        "medium": "",
+        "genre": "",
+        "link": ""
+      },
+      {
+        "id": 2,
+        "title": "",
+        "artist": "",
+        "release_year": 0,
+        "price": 75,
+        "image": "",
+        "medium": "",
+        "genre": "",
+        "link": ""
+      }
+    ],
+    "fashion": [
+      {
+        "id": 1,
+        "title": "",
+        "artist": "",
+        "release_year": 0,
+        "price": 100,
+        "image": "",
+        "type": "",
+        "size": "",
+        "color": "",
+        "link": ""
+      },
+      {
+        "id": 2,
+        "title": "",
+        "artist": "",
+        "release_year": 0,
+        "price": 200,
+        "image": "",
+        "type": "",
+        "size": "",
+        "color": "",
+        "link": ""
+      }
+    ]
+  },
+  "user": {
+    "user_data": [
+      {
+        "id": 1,
+        "fname": "John",
+        "lname": "Doe",
+        "email": "johndoe@gmail.com",
+        "password": "password1",
+        "dob": "04/20/2000",
+        "username": "JohnD2000",
+        "comments": [
+          {
+            "id": 1,
+            "date": "9/13/2023",
+            "content": "Superb!"
+          },
+          {
+            "id": 2,
+            "date": "9/13/2023",
+            "content": "I'm John!"
+          }
+        ],
+        "oeuvre": [
+          {
+            "id": 1,
+            "inv_type": "gallery",
+            "inv_data": {
+              "id": 1,
+              "title": "",
+              "artist": "",
+              "release_year": 2000,
+              "price": 15,
+              "image": "",
+              "genre": "",
+              "link": ""
+            }
+          },
+          {
+            "id": 2,
+            "inv_type": "music",
+            "inv_data": {
+              "id": 1,
+              "title": "",
+              "artist": "",
+              "release_year": 2000,
+              "price": 15,
+              "image": "",
+              "genre": "",
+              "link": ""
+            }
+          }
+        ],
+        "curation": [
+          {
+            "id": 2,
+            "inv_type": "music",
+            "inv_data": {
+              "id": 1,
+              "title": "",
+              "artist": "",
+              "release_year": 0,
+              "price": 15,
+              "image": "",
+              "medium": "",
+              "genre": "",
+              "link": ""
+            }
+          },
+          {
+            "id": 2,
+            "inv_type": "music",
+            "inv_data": {
+              "id": 1,
+              "title": "",
+              "artist": "",
+              "release_year": 0,
+              "price": 15,
+              "image": "",
+              "medium": "",
+              "genre": "",
+              "link": ""
+            }
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "fname": "Jane",
+        "lname": "Doe",
+        "email": "janedoe@gmail.com",
+        "password": "password1",
+        "dob": "03/20/2000",
+        "username": "Jane420",
+        "comments": [
+          {
+            "id": 1,
+            "date": "9/13/2023",
+            "content": "Wow!"
+          },
+          {
+            "id": 2,
+            "date": "9/13/2023",
+            "content": "I'm Jane!"
+          }
+        ],
+        "oeuvre": [
+          {
+            "id": 1,
+            "inv_type": "gallery",
+            "inv_data": {
+              "id": 1,
+              "title": "",
+              "artist": "",
+              "release_year": 2000,
+              "price": 15,
+              "image": "",
+              "genre": "",
+              "link": ""
+            }
+          },
+          {
+            "id": 2,
+            "inv_type": "music",
+            "inv_data": {
+              "id": 1,
+              "title": "",
+              "artist": "",
+              "release_year": 2000,
+              "price": 15,
+              "image": "",
+              "genre": "",
+              "link": ""
+            }
+          }
+        ],
+        "curation": [
+          {
+            "id": 2,
+            "inv_type": "fashion",
+            "inv_data": {
+              "id": 1,
+              "title": "",
+              "artist": "",
+              "release_year": 0,
+              "price": 15,
+              "image": "",
+              "medium": "",
+              "genre": "",
+              "link": ""
+            }
+          },
+          {
+            "id": 2,
+            "inv_type": "music",
+            "inv_data": {
+              "id": 1,
+              "title": "",
+              "artist": "",
+              "release_year": 0,
+              "price": 15,
+              "image": "",
+              "medium": "",
+              "genre": "",
+              "link": ""
+            }
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "fname": "Robert",
+        "lname": "Cheddar",
+        "email": "cheddarbob@gmail.com",
+        "password": "password1",
+        "dob": "06/09/2000",
+        "username": "CheddarBob69",
+        "comments": [
+          {
+            "id": 1,
+            "date": "9/13/2023",
+            "content": "O.K."
+          },
+          {
+            "id": 2,
+            "date": "9/13/2023",
+            "content": "I'm Cheddar Bob."
+          }
+        ],
+        "oeuvre": [
+          {
+            "id": 1,
+            "inv_type": "gallery",
+            "inv_data": {
+              "id": 1,
+              "title": "",
+              "artist": "",
+              "release_year": 2000,
+              "price": 15,
+              "image": "",
+              "genre": "",
+              "link": ""
+            }
+          },
+          {
+            "id": 2,
+            "inv_type": "music",
+            "inv_data": {
+              "id": 1,
+              "title": "",
+              "artist": "",
+              "release_year": 2000,
+              "price": 15,
+              "image": "",
+              "genre": "",
+              "link": ""
+            }
+          }
+        ],
+        "curation": [
+          {
+            "id": 1,
+            "inv_type": "music",
+            "inv_data": {
+              "item_id": 1
+            }
+          },
+          {
+            "id": 2,
+            "inv_type": "gallery",
+            "inv_data": {
+              "item_id": 2
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -196,8 +196,9 @@ export default function MusicPage() {
                               <AlbumArtwork
                                 key={album.name}
                                 album={album}
-                                className="w-[250px] h-[100px] pb-10"
-                                width={1000}
+                                className="w-[250px] pb-10"
+                                aspectRatio="portrait"
+                                width={330}
                                 height={330}
                               />
                             ))}
